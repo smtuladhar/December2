@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Failed suite [OpenCart Test Suite]" duration-ms="10558" started-at="2022-12-27T17:53:17 PST" finished-at="2022-12-27T17:53:28 PST">
+    <groups>
+      <group name="sanity">
+        <method signature="TC_002_Login.loginNormal()[pri:0, instance:testCases.TC_002_Login@2f0a87b3]" name="loginNormal" class="testCases.TC_002_Login"/>
+      </group> <!-- sanity -->
+      <group name="master">
+        <method signature="TC_002_Login.loginNormal()[pri:0, instance:testCases.TC_002_Login@2f0a87b3]" name="loginNormal" class="testCases.TC_002_Login"/>
+      </group> <!-- master -->
+    </groups>
+    <test name="OpenCart Test(failed)" duration-ms="10558" started-at="2022-12-27T17:53:17 PST" finished-at="2022-12-27T17:53:28 PST">
+      <class name="testCases.TC_002_Login">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:testCases.TC_002_Login@2f0a87b3]" name="setup" is-config="true" duration-ms="6133" started-at="2022-12-27T17:53:18 PST" finished-at="2022-12-27T17:53:24 PST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="loginNormal()[pri:0, instance:testCases.TC_002_Login@2f0a87b3]" name="loginNormal" duration-ms="3002" started-at="2022-12-27T17:53:24 PST" finished-at="2022-12-27T17:53:27 PST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginNormal -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testCases.TC_002_Login@2f0a87b3]" name="tearDown" is-config="true" duration-ms="1078" started-at="2022-12-27T17:53:27 PST" finished-at="2022-12-27T17:53:28 PST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.TC_002_Login -->
+    </test> <!-- OpenCart Test(failed) -->
+  </suite> <!-- Failed suite [OpenCart Test Suite] -->
+</testng-results>

@@ -1,0 +1,91 @@
+13:36:53.247 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+13:36:53.254 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+13:36:53.255 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Reading unresolved handles for type system org.apache.poi.schemas.ooxml.system.ooxml
+13:36:53.299 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Finished loading type system org.apache.poi.schemas.ooxml.system.ooxml
+13:36:53.301 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle themefd26doctype
+13:36:53.382 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle stylesheet5d8bdoctype
+13:36:53.391 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctstylesheet4257type
+13:36:53.397 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctfonts6623type
+13:36:53.400 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctfont14d8type
+13:36:53.406 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctfills2c6ftype
+13:36:53.409 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctfill550ctype
+13:36:53.411 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctborders0d66type
+13:36:53.413 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctborderf935type
+13:36:53.415 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctcellxfs1322type
+13:36:53.418 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctxf97f7type
+13:36:53.421 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctcellstylexfsa81ftype
+13:36:53.423 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctdxfsb26atype
+13:36:53.424 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle cttablestyles872ftype
+13:36:53.427 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle sstf81fdoctype
+13:36:53.430 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctsst44f3type
+13:36:53.438 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctrsta472type
+13:36:53.453 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+13:36:53.454 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle workbookec17doctype
+13:36:53.458 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctworkbook83c3type
+13:36:53.462 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctsheets49fdtype
+13:36:53.464 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctsheet4dbetype
+13:36:53.466 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle strelationshipid1e94type
+13:36:53.468 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle worksheetf539doctype
+13:36:53.473 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctworksheet530dtype
+13:36:53.479 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctsheetdata8408type
+13:36:53.481 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctrowdd39type
+13:36:53.485 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctcell842btype
+13:36:53.493 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle stcellrefe4e0type
+13:36:53.500 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctcols627ctype
+13:36:53.506 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctcola95ftype
+13:36:53.520 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle cthyperlinks6416type
+13:36:53.523 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle cthyperlink0c85type
+13:36:53.530 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle stxstringf179type
+13:36:53.536 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:36:53.537 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+13:36:53.539 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:36:53.551 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+13:36:53.564 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:36:53.564 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+13:36:53.565 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:36:53.577 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+13:36:53.587 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle stcelltypebf95type
+13:36:53.601 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:36:53.602 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+13:36:53.604 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:36:53.615 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+13:36:53.629 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:36:53.631 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+13:36:53.632 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:36:53.641 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+13:36:53.652 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:36:53.652 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+13:36:53.653 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:36:53.662 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+13:36:53.682 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:36:53.683 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+13:36:53.685 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:36:53.696 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+13:36:53.708 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:36:53.710 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+13:36:53.710 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:36:53.720 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+13:36:53.731 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:36:53.732 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+13:36:53.733 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:36:53.746 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+13:36:53.759 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:36:53.760 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+13:36:53.762 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:36:53.775 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+13:36:53.790 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:36:53.791 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+13:36:53.792 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:36:53.806 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+13:36:53.822 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:36:53.823 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+13:36:53.825 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:36:53.835 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+13:36:53.847 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:36:53.848 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+13:36:53.848 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:36:53.859 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+13:36:53.886 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:36:53.887 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+13:36:53.889 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:36:53.899 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
